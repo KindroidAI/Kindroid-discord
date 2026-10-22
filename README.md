@@ -1,6 +1,6 @@
 # Kindroid Discord Multi-Bot Manager
 
-Tutorial on how to use this repo: https://docs.kindroid.ai/official-discord-bot-integration
+> **Maintenance mode.** This project is kept running for existing users only. We are not adding features, and we don't offer setup support for new deployments. Bots that already use it will keep working.
 
 A Node.js service that manages multiple Discord bots, each tied to a unique Kindroid AI persona. The system uses just-in-time message fetching to provide conversation context without storing large message logs.
 
